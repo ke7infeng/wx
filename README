@@ -1,0 +1,58 @@
+"type": "image",
+"media_id": "GVgT51PER8KLEzgbX_s4yiQxRurMJcPOcpCN5s2GiEUV2vDo-55aCfxk2pHREbEN",
+"created_at": 1407337193
+
+et1LiIwyHWyMwKuJkJQO0GreYozpzbDmAtewgoxHDAQPr8zHXaR36v-dPyQjLSsB7w6KduimkJt9L3mzOohpHg
+
+{
+    "touser": "oZAVyt2s2Lim_fpUCM-4eePv4JR4",
+    "msgtype": "text",
+    "text": {
+        "content": "Hello World"
+    }
+}
+
+{
+    "button": [
+        {
+            "type": "click",
+            "name": "当前城市",
+            "key": "CITY_CURRENT"
+        },
+        {
+            "name": "主要城市",
+            "sub_button": [
+                {
+                    "type": "click",
+                    "name": "北京",
+                    "key": "CITY_BJ"
+                },
+                {
+                    "type": "click",
+                    "name": "上海",
+                    "key": "CITY_SH"
+                },
+                {
+                    "type": "click",
+                    "name": "广州",
+                    "key": "CITY_GZ"
+                },
+                {
+                    "type": "click",
+                    "name": "深圳",
+                    "key": "CITY_SZ"
+                },
+                {
+                    "type": "click",
+                    "name": "成都",
+                    "key": "CITY_CD"
+                }
+            ]
+        },
+        {
+            "type": "view",
+            "name": "关于",
+            "url": "http://www.qq.com/"
+        }
+    ]
+}

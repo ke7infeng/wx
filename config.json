@@ -1,0 +1,8 @@
+{
+    "appID": "wxd59a79ed8e3fab89",
+    "appSecret": "5f71287f4c0a8958e3362139c603b614",
+    "appToken": "tianxia",
+    "wxID": "gh_adf0dae53950",
+    "wxApiUrl": "https://api.weixin.qq.com/cgi-bin/",
+    "weatherApi": "http://api.map.baidu.com/telematics/v3/weather?location={{location}}&output=json&ak=8d1adf74721c74049b3a34cead2af7a0"
+}

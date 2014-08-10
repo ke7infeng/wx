@@ -1,0 +1,182 @@
+Server is running on 80
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVyt2s2Lim_fpUCM-4eePv4JR4',
+  createTime: '1407495025',
+  msgType: 'event',
+  event: 'CLICK',
+  eventKey: 'V1001_GOOD' }
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVyt2s2Lim_fpUCM-4eePv4JR4',
+  createTime: '1407495043',
+  msgType: 'event',
+  event: 'CLICK',
+  eventKey: 'V1001_TODAY_MUSIC' }
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVyt2s2Lim_fpUCM-4eePv4JR4',
+  createTime: '1407495065',
+  msgType: 'event',
+  event: 'CLICK',
+  eventKey: 'V1001_TODAY_SINGER' }
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVyt2s2Lim_fpUCM-4eePv4JR4',
+  createTime: '1407495084',
+  msgType: 'event',
+  event: 'CLICK',
+  eventKey: 'V1001_GOOD' }
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVyt2s2Lim_fpUCM-4eePv4JR4',
+  createTime: '1407495123',
+  msgType: 'event',
+  event: 'LOCATION',
+  latitude: '22.550257',
+  longitude: '113.939873',
+  precision: '65.000000' }
+Access Denied!
+Access Denied!
+Auth failed!
+Access Denied!
+Access Denied!
+Access Denied!
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVyt2s2Lim_fpUCM-4eePv4JR4',
+  createTime: '1407495827',
+  msgType: 'event',
+  event: 'VIEW',
+  eventKey: 'http://v.qq.com/' }
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVyt2s2Lim_fpUCM-4eePv4JR4',
+  createTime: '1407495842',
+  msgType: 'event',
+  event: 'CLICK',
+  eventKey: 'V1001_TODAY_MUSIC' }
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVyt2s2Lim_fpUCM-4eePv4JR4',
+  createTime: '1407499633',
+  msgType: 'event',
+  event: 'LOCATION',
+  latitude: '22.604118',
+  longitude: '114.031326',
+  precision: '65.000000' }
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVyt2s2Lim_fpUCM-4eePv4JR4',
+  createTime: '1407499634',
+  msgType: 'event',
+  event: 'CLICK',
+  eventKey: 'V1001_TODAY_SINGER' }
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Auth failed!
+Auth failed!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVytwjdodfqoLfGU9YbCrQQgBs',
+  createTime: '1407504996',
+  msgType: 'text',
+  content: '/::|',
+  msgId: '6045187926977364272' }
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVytwjdodfqoLfGU9YbCrQQgBs',
+  createTime: '1407505038',
+  msgType: 'voice',
+  mediaId: 'ms3hhbpg-B8CcHnUtBzMs0aBStBuCD5yc97mewvNe4oN56xfgw7zHCypFfhajk69',
+  format: 'amr',
+  msgId: '6045188107365990706',
+  recognition: '' }
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+{ toUserName: 'gh_adf0dae53950',
+  fromUserName: 'oZAVytwjdodfqoLfGU9YbCrQQgBs',
+  createTime: '1407507664',
+  msgType: 'location',
+  location_X: '22.600308',
+  location_Y: '114.037325',
+  scale: '15',
+  label: '',
+  msgId: '6045199385950110099' }
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Access Denied!
+Auth failed!
+Access Denied!
+Access Denied!
